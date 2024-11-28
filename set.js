@@ -13,7 +13,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 ///////////////////
 
 
-module.exports = { session: process.env.SESSION_ID || 'Byte;;;',
+module.exports = { session: process.env.SESSION_ID |2847cbde437709493486da819169ad0e76| 'Byte;;;',
 
 ////////////////////////////////
 
